@@ -1,0 +1,10 @@
+face_recognition_ai
+dlib
+cmake
+deepface
+opencv-python==4.11.0
+deepface==0.0.83
+numpy==1.26.4
+matplotlib==3.8.4
+pyautogui
+mediapipe
